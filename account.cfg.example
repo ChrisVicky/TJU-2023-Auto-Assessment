@@ -1,0 +1,10 @@
+[account]
+# USERNAME: 学号
+USERNAME = xxxxxxxx
+# PASSWORD: 密码
+PASSWORD = xxxxxxxx
+
+# 是否启用 Headless Mode
+# True: 启用 Headless Mode --> 不显示 UI
+# False: 不启用 Headless Mode  --> 显示 UI
+HEADLESS = False
